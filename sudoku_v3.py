@@ -102,7 +102,7 @@ def def_matrix():
     matrix[8,2]=3
     matrix[8,4]=1
     matrix[8,5]=8
-    """
+    
     """
     # One of the Worlds most difficult sudokus
     matrix[0,0]=8
